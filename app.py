@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📊 Dashboard — Qualidade do Atendimento ao Consumidor")
+st.title("Dashboard — Qualidade do Atendimento ao Consumidor")
 st.write("Consumidor.gov.br — Março/2026")
 
 # Carregamento da base
